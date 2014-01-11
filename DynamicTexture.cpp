@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include "DynamicTexture.h"
 
 void dtkernels::CircleKernel(array<uint32, 2> &buffer, uint32 x, uint32 y, uint32 radius, uint32 color, bool fade)
