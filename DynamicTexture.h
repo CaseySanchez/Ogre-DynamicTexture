@@ -1,7 +1,5 @@
 #pragma once
 
-#include "stdafx.h"
-
 #include <amp.h>
 #include <amp_math.h>
 
